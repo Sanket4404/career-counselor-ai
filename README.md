@@ -47,3 +47,18 @@
 1️⃣ **Clone this repository**  
 ```bash
 git clone https://github.com/Sanket4404/career-counselor-ai.git
+```
+
+
+
+2️⃣ **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+3️⃣ **Launch the application**
+
+```bash
+streamlit run app.py
+```
